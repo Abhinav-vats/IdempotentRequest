@@ -1,13 +1,13 @@
-package com.abhinav.Idemptency;
+package com.abhinav.Idempotency;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IdemptencyApplication {
+public class IdempotencyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(IdemptencyApplication.class, args);
+		SpringApplication.run(IdempotencyApplication.class, args);
 	}
 
 }
